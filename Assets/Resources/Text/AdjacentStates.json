@@ -1,0 +1,214 @@
+{
+    "Washington": [
+        "Oregon",
+        "Idaho"
+    ],
+    "Oregon": [
+        "Washington",
+        "Idaho",
+        "Nevada",
+        "California"
+    ],
+    "Nevada": [
+        "Oregon",
+        "Idaho",
+        "Utah",
+        "California",
+        "Arizona"
+    ],
+    "California": [
+        "Oregon",
+        "Nevada",
+        "Arizona"
+    ],
+    "Idaho": [
+        "Washington",
+        "Oregon",
+        "Nevada",
+        "Utah",
+        "Montana",
+        "Wyoming"
+    ],
+    "Utah": [
+        "Idaho",
+        "Nevada",
+        "Arizona",
+        "Colorado",
+        "Wyoming",
+        "New_Mexico"
+    ],
+    "Arizona": [
+        "Nevada",
+        "California",
+        "Utah",
+        "New_Mexico"
+    ],
+    "New_Mexico": [
+        "Arizona",
+        "Utah",
+        "Colorado",
+        "Texas",
+        "Oklahoma"
+    ],
+    "Colorado": [
+        "Utah",
+        "Wyoming",
+        "New_Mexico",
+        "Oklahoma",
+        "Kansas",
+        "Nebraska"
+    ],
+    "Wyoming": [
+        "Montana",
+        "Idhao",
+        "Utah",
+        "Colorado",
+        "North_Dakota",
+        "South_Dakota",
+        "Nebraska"
+    ],
+    "Nebraska": [
+        "South_Dakota",
+        "Colorado",
+        "Wyoming",
+        "Iowa",
+        "Kansas",
+        "Missouri"
+    ],
+    "Montana": [
+        "Idaho",
+        "Wyoming",
+        "North_Dakota",
+        "South_Dakota"
+    ],
+    "Kansas": [
+        "Colorado",
+        "Nebraska",
+        "Missouri",
+        "Oklahoma"
+    ],
+    "Oklahoma": [
+        "New_Mexico",
+        "Colorado",
+        "Kansas",
+        "Arkansas"
+    ],
+    "Texas": [
+        "New_Mexico",
+        "Oklahoma",
+        "Louisiana"
+    ],
+    "Louisiana": [
+        "Texas",
+        "Mississippi",
+        "Arkansas"
+    ],
+    "Arkansas": [
+        "Oklahoma",
+        "Louisiana",
+        "Mississippi",
+        "Missouri",
+        "Tennessee"
+    ],
+    "Missouri": [
+        "Arkansas",
+        "Illinois",
+        "Iowa",
+        "Kansas"
+    ],
+    "Iowa": [
+        "Missouri",
+        "Illinois",
+        "Wisconsin",
+        "Minnesota",
+        "Nebraska"
+    ],
+    "North_Dakota": [
+        "South_Dakota",
+        "Montana",
+        "Minnesota"
+    ],
+    "South_Dakota": [
+        "North_Dakota",
+        "Montana",
+        "Minnesota",
+        "Wyoming",
+        "Nebraska"
+    ],
+    "Minnesota": [
+        "North_Dakota",
+        "South_Dakota",
+        "Iowa",
+        "Wisconsin"
+    ],
+    "Wisconsin": [
+        "Minnesota",
+        "Iowa",
+        "Illinois"
+    ],
+    "Illinois": [
+        "Wisconsin",
+        "Iowa",
+        "Indiana",
+        "Missouri",
+        "Kentucky"
+    ],
+    "Kentucky": [
+        "Illinois",
+        "Indiana",
+        "Ohio",
+        "Tennessee",
+        "West_Virginia"
+    ],
+    "Ohio": [
+        "Indiana",
+        "Kentucky",
+        "West_Virginia",
+        "Pennsylvania"
+    ],
+    "Pennsylvania": [
+        "Ohio",
+        "New_York",
+        "West_Virginia"
+    ],
+    "Tennessee": [
+        "Arkansas",
+        "Mississippi",
+        "Alabama",
+        "North_Carolina",
+        "Kentucky",
+        "Georgia"
+    ],
+    "Alabama": [
+        "Mississippi",
+        "Tennessee",
+        "Georgia",
+        "Florida"
+    ],
+    "Florida": [
+        "Georgia"
+    ],
+    "Georgia": [
+        "Florida",
+        "Alabama",
+        "South_Carolina"
+    ],
+    "South_Carolina": [
+        "North_Carolina",
+        "Georgia"
+    ],
+    "North_Carolina": [
+        "South_Carolina",
+        "Virginia"
+    ],
+    "Virginia": [
+        "North_Carolina",
+        "West_Virginia"
+    ],
+    "West_Virginia": [
+        "Virginia",
+        "Kentucky",
+        "Ohio",
+        "Pennsylvania"
+    ]
+}

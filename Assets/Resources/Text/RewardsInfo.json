@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "type": "currency",
+        "icon": "reward_icon_001",
+        "name": "reward 1",
+        "descr": "description of reward 1"
+    },
+    {
+        "id": 2,
+        "type": "currency",
+        "icon": "reward_icon_002",
+        "name": "reward 2",
+        "descr": "description of reward 2"
+    }
+]
